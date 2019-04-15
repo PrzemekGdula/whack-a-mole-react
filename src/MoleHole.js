@@ -4,7 +4,7 @@ import React from 'react'
 const MoleHole = (props) => {
     return (
         <div
-            className={'whole'}
+            className={props.className}
         >
 
         </div>
